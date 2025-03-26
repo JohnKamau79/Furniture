@@ -1,0 +1,58 @@
+fieldset {
+    width: 60%;
+    margin: 10px 0 0 250px;
+    padding-bottom: 70px;
+    background-color: #fff;
+    border: none;
+    box-shadow: 1px 5px 5px 5px;
+    /* background-color: rgb(245, 76, 76); */
+}
+h1,p {
+    text-align: center;
+    padding: 10px;
+}
+table {
+ margin-left: 20px;
+ padding: 20px;
+ margin-top: 30px;
+}
+tr {
+    padding: 20px;
+}
+td {
+    padding: 20px;
+    padding-left: 20px;
+    margin-left: 12px;
+}
+td input {
+    padding: 10px;
+    width: 30em;
+    border-color: maroon;
+}
+.td1 {
+    position: absolute;
+    left: 48em;
+}
+.td2 {
+    position: absolute;
+    left: 48em;  
+}
+.submit {
+    position: absolute;
+    left: 400px;
+    /* margin-top: 25px; */
+    }
+    .submit input {
+        text-decoration: none;
+        padding: 9px;
+        width: 100px;
+        color: white;
+        font-weight: bolder;
+        background-color: rgb(205,58,58);
+        font-size: 17px;
+         border-radius: 10px 10px; 
+        cursor: pointer;
+    }
+    .submit input:active {
+     font-size:12px;
+    }
